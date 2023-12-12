@@ -16,7 +16,7 @@ public class MyClass {
 		logger.info("Info message");
 		logger.warn("Warning message");
 		logger.error("Error message");
-
+System.out.println("Git Project");
 		return "All levvel executed";
 	}
 }
